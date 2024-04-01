@@ -16,7 +16,7 @@ Customizable and extensible for additional functionalities.
 #### Get all items
 
 ```http
-  GET /api/openai
+  https://openai.com/
 ```
 
 | Parameter | Type     | Description                |
